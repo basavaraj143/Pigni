@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.society.gsaienter"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.society.utils.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.society.gsaienter.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.CollectionActivity"
+            android:label="@string/title_activity_collection" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.ReportsActivity"
+            android:label="@string/title_activity_reports" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.ViewCustomerActivity"
+            android:label="@string/title_activity_view_customer" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.BlueToothPrinterApp"
+            android:label="@string/title_activity_blue_tooth_printer_app" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.ViewDateWiseReport"
+            android:label="@string/title_activity_view_date_wise_report" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.OtherReportActivity"
+            android:label="@string/title_activity_other_report" >
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.BTDeviceListActivity"
+            android:label="@string/title_activity_btdevice_list"
+            android:parentActivityName="android.app.ListActivity"
+            android:theme="@android:style/Theme.Dialog" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.ListActivity" />
+        </activity>
+        <activity
+            android:name="com.society.gsaienter.ComCalculationActivity"
+            android:label="@string/title_activity_com_calculation" >
+        </activity>
+    </application>
+
+</manifest>

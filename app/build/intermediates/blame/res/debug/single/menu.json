@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/view_customer.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/view_customer.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/view_date_wise_report.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/view_date_wise_report.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blue_tooth_printer_app.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\blue_tooth_printer_app.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\btdevice_list.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\btdevice_list.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\collection.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\collection.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/bt__print.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/bt__print.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\view_date_wise_report.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\view_date_wise_report.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\com_calculation.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\com_calculation.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/com_calculation.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/com_calculation.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/collection.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/collection.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/blue_tooth_printer_app.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/blue_tooth_printer_app.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/btdevice_list.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/btdevice_list.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bt__print.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\bt__print.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/reports.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/reports.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/other_report.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/other_report.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\other_report.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\other_report.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\view_customer.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\view_customer.xml"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reports.xml",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\menu\\reports.xml"
+    }
+]

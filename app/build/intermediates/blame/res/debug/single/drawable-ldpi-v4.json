@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pigmi.png",
+        "source": "/home/basavaraj/Documents/GSaiEnter/C:\\Users\\aDMIN007\\AndroidStudioProjects\\GSaiEnter\\app\\src\\main\\res\\drawable-ldpi\\pigmi.png"
+    },
+    {
+        "merged": "/home/basavaraj/Documents/GSaiEnter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/pigmi.png",
+        "source": "/home/basavaraj/Documents/GSaiEnter/app/src/main/res/drawable-ldpi/pigmi.png"
+    }
+]
